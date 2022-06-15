@@ -29,7 +29,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Tech stack
 
 Angular version : 11
+
 UI: angular material
+
 server: json-server
 
 if you use lower version of angular please use below steps to upgraded to angular 11
