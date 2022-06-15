@@ -39,6 +39,10 @@ if you use lower version of angular please use below steps to upgraded to angula
 2. npm cache clear
 3. npm install -g @angular/cli@11
 
+for json - server run below
+
+npm install -g json-server
+
 steps to run this application
 
 a. git clone https://github.com/kumarmadurai/userRegister.git
@@ -46,7 +50,7 @@ a. git clone https://github.com/kumarmadurai/userRegister.git
 b. yarn install or npm install
 
 c. run npm serve
-
-d. another tab run npm run api
+d. npm install -g json-server
+e. another tab run npm run api
 
 then access http:localhost:42000
