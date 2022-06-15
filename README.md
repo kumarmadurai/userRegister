@@ -25,3 +25,23 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Tech stack
+
+Angular version : 11
+UI: angular material
+server: json-server
+
+if you use lower version of angular please use below steps to upgraded to angular 11
+1. npm uninstall -g angular-cli
+2. npm cache clear
+3. npm install -g @angular/cli@11
+
+steps to run this application
+
+a. git clone
+b. yarn install or npm install
+c. run ng serve
+d. another tab run npm run api
+
+then access http:localhost:42000
