@@ -41,9 +41,12 @@ if you use lower version of angular please use below steps to upgraded to angula
 
 steps to run this application
 
-a. git clone
+a. git clone https://github.com/kumarmadurai/userRegister.git
+
 b. yarn install or npm install
+
 c. run ng serve
+
 d. another tab run npm run api
 
 then access http:localhost:42000
