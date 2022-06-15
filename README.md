@@ -45,7 +45,7 @@ a. git clone https://github.com/kumarmadurai/userRegister.git
 
 b. yarn install or npm install
 
-c. run ng serve
+c. run npm serve
 
 d. another tab run npm run api
 
